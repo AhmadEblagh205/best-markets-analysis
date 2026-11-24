@@ -1,0 +1,229 @@
+{
+  "eligible_n": 1080,
+  "known_country_n": 1080,
+  "missing_country_n": 0,
+  "valid_spend_n": 916,
+  "selection": "top countries by eligible known-country respondent count; ties alphabetical",
+  "screening_only": true,
+  "markets": {
+    "Synthetic A": {
+      "eligible_known_country_n": 600,
+      "share_of_eligible_known_country": 0.5555555555555556,
+      "valid_spend_n": 506,
+      "invalid_or_missing_spend_n": 94,
+      "zero_month_n_valid": 19,
+      "mean": 12.100841181790964,
+      "median": 0.0,
+      "zero_spend_share": 0.6106719367588933,
+      "median_bootstrap_interval": [
+        0.0,
+        0.0
+      ],
+      "cap_sensitivity": {
+        "100": {
+          "deleted": 12,
+          "trimmed_mean": 8.172103004648715,
+          "winsorised_mean": 10.349839692285505
+        },
+        "250": {
+          "deleted": 1,
+          "trimmed_mean": 11.169479263488151,
+          "winsorised_mean": 11.641476340042523
+        },
+        "500": {
+          "deleted": 0,
+          "trimmed_mean": 12.100841181790964,
+          "winsorised_mean": 12.100841181790964
+        },
+        "1000": {
+          "deleted": 0,
+          "trimmed_mean": 12.100841181790964,
+          "winsorised_mean": 12.100841181790964
+        }
+      },
+      "zero_month_half_month_mean": 12.613443299930196,
+      "price_thresholds": {
+        "$10": {
+          "count_at_least": 140,
+          "complete_case_share": 0.2766798418972332,
+          "all_known_country_bounds": [
+            0.23333333333333334,
+            0.39
+          ]
+        },
+        "$20": {
+          "count_at_least": 84,
+          "complete_case_share": 0.16600790513833993,
+          "all_known_country_bounds": [
+            0.14,
+            0.2966666666666667
+          ]
+        },
+        "$30": {
+          "count_at_least": 54,
+          "complete_case_share": 0.1067193675889328,
+          "all_known_country_bounds": [
+            0.09,
+            0.24666666666666667
+          ]
+        },
+        "$59": {
+          "count_at_least": 24,
+          "complete_case_share": 0.04743083003952569,
+          "all_known_country_bounds": [
+            0.04,
+            0.19666666666666666
+          ]
+        }
+      }
+    },
+    "Synthetic B": {
+      "eligible_known_country_n": 300,
+      "share_of_eligible_known_country": 0.2777777777777778,
+      "valid_spend_n": 249,
+      "invalid_or_missing_spend_n": 51,
+      "zero_month_n_valid": 12,
+      "mean": 16.78783729157293,
+      "median": 0.0,
+      "zero_spend_share": 0.5100401606425703,
+      "median_bootstrap_interval": [
+        0.0,
+        6.837462972632243
+      ],
+      "cap_sensitivity": {
+        "100": {
+          "deleted": 8,
+          "trimmed_mean": 12.747823229352095,
+          "winsorised_mean": 15.551106017164075
+        },
+        "250": {
+          "deleted": 0,
+          "trimmed_mean": 16.78783729157293,
+          "winsorised_mean": 16.78783729157293
+        },
+        "500": {
+          "deleted": 0,
+          "trimmed_mean": 16.78783729157293,
+          "winsorised_mean": 16.78783729157293
+        },
+        "1000": {
+          "deleted": 0,
+          "trimmed_mean": 16.78783729157293,
+          "winsorised_mean": 16.78783729157293
+        }
+      },
+      "zero_month_half_month_mean": 18.06998462014271,
+      "price_thresholds": {
+        "$10": {
+          "count_at_least": 99,
+          "complete_case_share": 0.39759036144578314,
+          "all_known_country_bounds": [
+            0.33,
+            0.5
+          ]
+        },
+        "$20": {
+          "count_at_least": 71,
+          "complete_case_share": 0.285140562248996,
+          "all_known_country_bounds": [
+            0.23666666666666666,
+            0.4066666666666667
+          ]
+        },
+        "$30": {
+          "count_at_least": 43,
+          "complete_case_share": 0.17269076305220885,
+          "all_known_country_bounds": [
+            0.14333333333333334,
+            0.31333333333333335
+          ]
+        },
+        "$59": {
+          "count_at_least": 22,
+          "complete_case_share": 0.08835341365461848,
+          "all_known_country_bounds": [
+            0.07333333333333333,
+            0.24333333333333335
+          ]
+        }
+      }
+    },
+    "Synthetic C": {
+      "eligible_known_country_n": 180,
+      "share_of_eligible_known_country": 0.16666666666666666,
+      "valid_spend_n": 161,
+      "invalid_or_missing_spend_n": 19,
+      "zero_month_n_valid": 4,
+      "mean": 8.267497935128464,
+      "median": 0.0,
+      "zero_spend_share": 0.7267080745341615,
+      "median_bootstrap_interval": [
+        0.0,
+        0.0
+      ],
+      "cap_sensitivity": {
+        "100": {
+          "deleted": 1,
+          "trimmed_mean": 7.6138058982367625,
+          "winsorised_mean": 8.187633190794298
+        },
+        "250": {
+          "deleted": 0,
+          "trimmed_mean": 8.267497935128464,
+          "winsorised_mean": 8.267497935128464
+        },
+        "500": {
+          "deleted": 0,
+          "trimmed_mean": 8.267497935128464,
+          "winsorised_mean": 8.267497935128464
+        },
+        "1000": {
+          "deleted": 0,
+          "trimmed_mean": 8.267497935128464,
+          "winsorised_mean": 8.267497935128464
+        }
+      },
+      "zero_month_half_month_mean": 8.267497935128464,
+      "price_thresholds": {
+        "$10": {
+          "count_at_least": 36,
+          "complete_case_share": 0.2236024844720497,
+          "all_known_country_bounds": [
+            0.2,
+            0.3055555555555556
+          ]
+        },
+        "$20": {
+          "count_at_least": 22,
+          "complete_case_share": 0.13664596273291926,
+          "all_known_country_bounds": [
+            0.12222222222222222,
+            0.22777777777777777
+          ]
+        },
+        "$30": {
+          "count_at_least": 14,
+          "complete_case_share": 0.08695652173913043,
+          "all_known_country_bounds": [
+            0.07777777777777778,
+            0.18333333333333332
+          ]
+        },
+        "$59": {
+          "count_at_least": 6,
+          "complete_case_share": 0.037267080745341616,
+          "all_known_country_bounds": [
+            0.03333333333333333,
+            0.1388888888888889
+          ]
+        }
+      }
+    }
+  },
+  "note": "Historical expenditure proxy, not willingness to pay, conversion, TAM or ROI. Bootstrap intervals conditional on observed complete cases; missingness bounds are not confidence intervals.",
+  "provenance": {
+    "kind": "synthetic demonstration",
+    "seed": 42
+  },
+  "input_rows": 1080
+}

@@ -1,0 +1,27 @@
+{
+  "primary_market": "United States of America",
+  "candidate_second_markets": [
+    "India",
+    "United Kingdom",
+    "Canada"
+  ],
+  "share_of_respondents_pct": {
+    "United States of America": 45.34,
+    "India": 7.5,
+    "United Kingdom": 4.76,
+    "Canada": 3.74
+  },
+  "mean_spend_per_month_usd": {
+    "United States of America": 39.73,
+    "India": 24.32,
+    "United Kingdom": 26.22,
+    "Canada": 27.9
+  },
+  "median_spend_per_month_usd": {
+    "United States of America": 2.08,
+    "India": 0.0,
+    "United Kingdom": 0.0,
+    "Canada": 0.0
+  },
+  "note": "Recommendation logic: advertise where interested respondents concentrate AND monthly spend supports the product price; medians shown because spend is heavily right-skewed."
+}
